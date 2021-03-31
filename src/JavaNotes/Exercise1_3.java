@@ -1,4 +1,4 @@
-package Week1;
+package JavaNotes;
 
 public class Exercise1_3 {
     public static void main(String[] args) {

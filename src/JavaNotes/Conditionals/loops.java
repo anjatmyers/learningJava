@@ -1,7 +1,4 @@
-package Week1.Conditionals;
-
-import java.util.Scanner;
-import java.util.concurrent.ThreadLocalRandom;
+package JavaNotes.Conditionals;
 
 public class loops {
     public static void main(String[] args) {

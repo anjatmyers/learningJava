@@ -1,4 +1,4 @@
-package Week1;
+package JavaNotes;
 
 import java.util.Scanner;
 //will allow us to use the scanner ^

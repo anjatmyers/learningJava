@@ -1,6 +1,5 @@
-package Week1.Conditionals;
+package JavaNotes.Conditionals;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class IfStatements {

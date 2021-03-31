@@ -1,4 +1,4 @@
-package Week1.Conditionals;
+package JavaNotes.Conditionals;
 
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;

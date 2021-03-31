@@ -1,4 +1,4 @@
-package Week1.Functions;
+package JavaNotes.Functions;
 
 import java.util.Scanner;
 
